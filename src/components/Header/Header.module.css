@@ -1,0 +1,21 @@
+.header{
+    width: 100%;
+    height: 60px;
+    background-color: black;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.enlace{
+    color: rgb(216, 216, 216);
+    text-decoration: none;
+    padding: 1rem;
+}
+
+.enlace:hover,
+.enlace:active,
+.enlace_activo{
+    color: white;
+    font-weight: bold;
+}

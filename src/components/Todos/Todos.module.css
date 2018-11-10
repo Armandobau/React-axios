@@ -1,0 +1,9 @@
+.todos{
+    padding: 1rem;
+    height: calc(100vh - 60px);
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
